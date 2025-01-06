@@ -71,6 +71,6 @@ POST http://localhost:8080/contacts/identify
 - **Controller**: Manages API requests and responses.
 - **DTOs**: Defines the structure for request/response objects.
 - **Service**: Contains the business logic.
-- **Service**: Defines the database schema.
+- **Model**: Defines the database schema.
 - **Repository**: Interfaces for database interactions.
 - **Exception Handling**: Global error handling classes.

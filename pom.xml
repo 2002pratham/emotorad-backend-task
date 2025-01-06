@@ -56,19 +56,18 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>6.2.0.Final</version>  <!-- or the latest version -->
+			<version>6.2.0.Final</version>  
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>6.0.0.Final</version> <!-- Ensure this is Hibernate 6.x -->
+			<version>6.0.0.Final</version> 
 		</dependency>
 
-		<!-- Add JSR-303 API dependency -->
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>validation-api</artifactId>
-			<version>2.0.1.Final</version>  <!-- or the latest version -->
+			<version>2.0.1.Final</version> 
 		</dependency>
 
 		<!-- Mockito Dependency -->
@@ -99,7 +98,7 @@
 		<dependency>
 			<groupId>org.hibernate.validator</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>8.0.1.Final</version> <!-- Use the appropriate version for Jakarta 3.x -->
+			<version>8.0.1.Final</version> 
 		</dependency>
 
 

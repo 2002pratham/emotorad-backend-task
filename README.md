@@ -18,6 +18,13 @@ Ensure you have the following installed:
 - Java 21+
 - Maven 3.9.9
 - IDE (e.g., IntelliJ IDEA, Eclipse) or terminal for running the app.
+## 🛠️ Technologies Used
+
+- **Java**: Programming language.
+- **Spring Boot**: Framework for backend development.
+- **H2 Database**: In-memory database for quick testing.
+- **JUnit and Mockito**: For unit testing.
+
 ## 🛠️ Build the Project:
 ```bash
 mvn clean install
